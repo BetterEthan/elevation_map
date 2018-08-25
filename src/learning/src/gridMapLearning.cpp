@@ -20,7 +20,7 @@ int main(int argc, char** argv)
     map.getLength().x(), map.getLength().y(),
     map.getSize()(0), map.getSize()(1));
 
-  // Work with grid map in a loop.
+  // Work with grid map in a loop.dd
   ros::Rate rate(30.0);
   while (nh.ok()) {
 
