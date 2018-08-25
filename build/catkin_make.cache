@@ -1,0 +1,2 @@
+learning
+-DCATKIN_DEVEL_PREFIX=/home/xp/Desktop/catkin_learning/devel -DCMAKE_INSTALL_PREFIX=/home/xp/Desktop/catkin_learning/install -G Unix Makefiles

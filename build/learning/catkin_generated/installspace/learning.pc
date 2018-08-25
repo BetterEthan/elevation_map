@@ -1,0 +1,8 @@
+prefix=/home/xp/Desktop/catkin_learning/install
+
+Name: learning
+Description: Description of learning
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xp/Desktop/catkin_learning/install/lib 
+Requires: message_runtime

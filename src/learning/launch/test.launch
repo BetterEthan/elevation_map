@@ -1,0 +1,5 @@
+<launch>
+  <!-- Elevation mapping node -->
+  <node pkg="learning" type="leanring_yaml" name="yaml" output="screen"/>
+  <rosparam command="load" file="$(find learning)/cfg/kinect.yaml" />
+</launch>
